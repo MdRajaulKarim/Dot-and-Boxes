@@ -2,6 +2,14 @@
 
 A beautifully crafted **Dots and Boxes** game built with raw HTML, CSS, and vanilla JavaScript. Connect the dots, claim boxes, and outsmart your opponent!
 
+<p align="center">
+  <strong>🚀 Try <br> </strong>
+  <a href="https://mdrajaulkarim.github.io/Dot-and-Boxes/">
+    <strong> Dots and Boxes Live→</strong>
+  </a>
+</p>
+
+---
 ## ✨ Features
 1. 👥 **Local Multiplayer:** Play against a friend on the same device.
 2. 🎨 **Premium Aesthetics:** Features a dark glassmorphism UI, gradient elements, and an animated particle background.
